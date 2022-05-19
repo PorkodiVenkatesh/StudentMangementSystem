@@ -1,0 +1,55 @@
+2022-05-18 16:11:41 INFO  root:46 - App Started!!
+2022-05-18 16:11:49 INFO  root:46 - App Started!!
+2022-05-18 16:11:51 INFO  root:50 - choice entered (1-SignUp/2-SignIn)12
+2022-05-18 16:11:55 INFO  root:46 - App Started!!
+2022-05-18 16:11:57 INFO  root:50 - choice entered (1-SignUp/2-SignIn)1
+2022-05-18 16:12:02 INFO  root:64 - Register User!! userName -abc
+2022-05-18 16:12:14 INFO  root:46 - App Started!!
+2022-05-18 16:12:17 INFO  root:50 - choice entered (1-SignUp/2-SignIn)2
+2022-05-18 16:12:24 INFO  Menu:34 - User Logged in!! userName -abc
+2022-05-18 16:12:34 INFO  root:76 - User Logged out!! userName -abc
+2022-05-18 16:12:38 INFO  root:88 - App terminated
+2022-05-18 16:13:22 INFO  root:46 - App Started!!
+2022-05-18 16:13:26 INFO  root:50 - choice entered (1-SignUp/2-SignIn)2
+2022-05-18 16:13:33 INFO  Menu:34 - User Logged in!! userName -abc
+2022-05-18 16:13:52 INFO  root:76 - User Logged out!! userName -abc
+2022-05-18 16:13:56 INFO  root:88 - App terminated
+App Started!!
+choice entered (1-SignUp/2-SignIn)2
+User Logged in!! userName -abc
+User Logged out!! userName -abc
+App terminated
+2022-05-18 16:23:06::0::INFO ::com.revature.stuMgmtSys.App:46::App Started!!
+2022-05-18 16:23:10::4000::INFO ::com.revature.stuMgmtSys.App:50::choice entered (1-SignUp/2-SignIn)2
+2022-05-18 16:23:14::7856::INFO ::com.revature.stuMgmtSys.Menu:34::User Logged in!! userName -abc
+2022-05-18 16:23:20::13965::INFO ::com.revature.stuMgmtSys.App:76::User Logged out!! userName -abc
+2022-05-18 16:23:25::18875::INFO ::com.revature.stuMgmtSys.App:88::App terminated
+2022-05-18 16:25:03**0**INFO**com.revature.stuMgmtSys.App:46**App Started!!2022-05-18 16:25:03**0**INFO**com.revature.stuMgmtSys.App:46**App Started!!2022-05-18 16:25:06**2881**INFO**com.revature.stuMgmtSys.App:50**choice entered (1-SignUp/2-SignIn)22022-05-18 16:25:09**6603**INFO**com.revature.stuMgmtSys.Menu:34**User Logged in!! userName -abc2022-05-18 16:25:19**16433**INFO**com.revature.stuMgmtSys.App:76**User Logged out!! userName -abc2022-05-18 16:25:21**18007**INFO**com.revature.stuMgmtSys.App:88**App terminated2022-05-18 16:25:26**1**INFO**com.revature.stuMgmtSys.App:46**App Started!!2022-05-18 16:25:30**4298**INFO**com.revature.stuMgmtSys.App:50**choice entered (1-SignUp/2-SignIn)22022-05-18 16:25:40**14079**INFO**com.revature.stuMgmtSys.Menu:34**User Logged in!! userName -abc2022-05-18 16:25:43**17813**INFO**com.revature.stuMgmtSys.App:76**User Logged out!! userName -abc2022-05-18 16:26:46 0 INFO com.revature.stuMgmtSys.App:46 App Started!!2022-05-18 16:26:48 2185 INFO com.revature.stuMgmtSys.App:50 choice entered (1-SignUp/2-SignIn)22022-05-18 16:26:51 5674 INFO com.revature.stuMgmtSys.Menu:34 User Logged in!! userName -abc2022-05-18 16:26:56 9785 INFO com.revature.stuMgmtSys.App:76 User Logged out!! userName -abc2022-05-18 16:26:59 13382 INFO com.revature.stuMgmtSys.App:88 App terminated2022-05-18 16:27:39 0 INFO com.revature.stuMgmtSys.App:46 App Started!!
+2022-05-18 16:27:42 2307 INFO com.revature.stuMgmtSys.App:50 choice entered (1-SignUp/2-SignIn)2
+2022-05-18 16:27:45 5795 INFO com.revature.stuMgmtSys.Menu:34 User Logged in!! userName -abc
+2022-05-18 16:27:49 9539 INFO com.revature.stuMgmtSys.App:76 User Logged out!! userName -abc
+2022-05-18 16:27:50 10890 INFO com.revature.stuMgmtSys.App:88 App terminated
+2022-05-18 16:27:53 0 INFO com.revature.stuMgmtSys.App:46 App Started!!
+2022-05-19 06:21:46 0 INFO com.revature.stuMgmtSys.App:46 App Started!!
+2022-05-19 06:22:02 0 INFO com.revature.stuMgmtSys.App:46 App Started!!
+2022-05-19 10:33:37 0 INFO com.revature.stuMgmtSys.App:46 App Started!!
+2022-05-19 10:33:39 2184 INFO com.revature.stuMgmtSys.App:50 choice entered (1-SignUp/2-SignIn)1
+2022-05-19 10:33:45 0 INFO com.revature.stuMgmtSys.App:46 App Started!!
+2022-05-19 10:33:47 2001 INFO com.revature.stuMgmtSys.App:50 choice entered (1-SignUp/2-SignIn)2
+2022-05-19 10:33:50 5102 INFO com.revature.stuMgmtSys.Menu:34 User Logged in!! userName -abc
+2022-05-19 10:33:56 10632 INFO com.revature.stuMgmtSys.App:76 User Logged out!! userName -abc
+2022-05-19 10:33:59 13289 INFO com.revature.stuMgmtSys.App:88 App terminated
+2022-05-19 10:34:36 0 INFO com.revature.stuMgmtSys.App:46 App Started!!
+2022-05-19 10:34:37 1881 INFO com.revature.stuMgmtSys.App:50 choice entered (1-SignUp/2-SignIn)2
+2022-05-19 10:34:44 8425 INFO com.revature.stuMgmtSys.Menu:34 User Logged in!! userName -abc
+2022-05-19 10:38:57 0 INFO com.revature.stuMgmtSys.App:46 App Started!!
+2022-05-19 10:49:10 0 INFO com.revature.stuMgmtSys.App:46 App Started!!
+2022-05-19 10:49:12 1823 INFO com.revature.stuMgmtSys.App:50 choice entered (1-SignUp/2-SignIn)2
+2022-05-19 10:49:15 5091 INFO com.revature.stuMgmtSys.Menu:34 User Logged in!! userName -abc
+2022-05-19 10:49:17 7127 INFO com.revature.stuMgmtSys.App:76 User Logged out!! userName -abc
+2022-05-19 10:49:18 8256 INFO com.revature.stuMgmtSys.App:88 App terminated
+App Started!!
+choice entered (1-SignUp/2-SignIn)2
+User Logged in!! userName -abc
+User Logged out!! userName -abc
+App terminated
